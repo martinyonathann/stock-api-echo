@@ -2,10 +2,10 @@ package main
 
 import (
 	"net/http"
-	"github.com/martinyonathann/stock-api-echo/controllers"
 
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
+	"github.com/martinyonathann/stock-api-echo/controllers"
 )
 
 func main() {
